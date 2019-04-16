@@ -1,3 +1,5 @@
+#Peter Lindee
+
 #include <iostream>
 #include <fstream>
 #include <sstream> 
