@@ -1,6 +1,7 @@
+#Peter Lindee
+
 #include <iostream>
 #include <vector>
-#include "mygraph2.cpp"
 #include <sstream>
 #include <fstream>
 using namespace std;
