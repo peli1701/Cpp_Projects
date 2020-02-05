@@ -1,16 +1,13 @@
-Final Project : City
 
 Peter Lindee
-CSCI4229/5229 Fall 2019
 
-For my final project, I created an open environment. The center of my scene is a city with a mote around it and a roadway. This road connects the two suburban areas on either side of the city. In the front of my scene is an ocean with a bridge that leads into the city. I tried to make it look like the golden gate bridge. In the rear of my scene is an airport with hangars, an air traffic control building, and an airplane. In the corners of the scene are mountains and there are several islands in each quadrant of the scene. 
+For this project, I created an open environment using OpenGL and Glut. The center of my scene is a city with a mote around it and a roadway. This road connects the two suburban areas on either side of the city. In the front of my scene is an ocean with a bridge that leads into the city. I tried to make it look like the golden gate bridge. In the rear of my scene is an airport with hangars, an air traffic control building, and an airplane. In the corners of the scene are mountains and there are several islands in each quadrant of the scene. 
 
 The default view of this scene is an orthogonal view. You can use the arrow keys to move the angles of the scene around. 
 
 The other view is first person, which can be used by pressing 'F' or 'f', and using WASD to move throughout the scene. 
 
 To compile my code: run make && ./final
-
 
 Key bindings
    f	     Enter/Exit first person mode
